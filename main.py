@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = "ab65a56f16f34db788cf65eb5f36ddd1"
-CLIENT_SECRET = "0ec8ea126e9b42d5a61af0aadcabee9c"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 REDIRECT_URI = "http://example.com"
 
 
